@@ -1,0 +1,20 @@
+---------------------------------------------
+|                 GetRoutes                 |
++----------+--------------------------------+
+|  RouteId |           RouteKey             |
++----------+--------------------------------+
+|  0vjdpt2 |  GET /disponibilidad           |
+|  bisamqp |  GET /servicios                |
+|  cnw2avr |  PATCH /admin/contacto         |
+|  e2ld898 |  GET /admin/buscar-cliente     |
+|  gdwnb89 |  PUT /admin/fotos/guardar      |
+|  k2k40nm |  GET /admin/cliente            |
+|  o4fa1jn |  PUT /disponibilidad/bloquear  |
+|  qbnmq8d |  POST /admin/fotos/url         |
+|  s4azfce |  POST /reservas                |
+|  sc9ahng |  DELETE /reservas              |
+|  sg1x4eo |  POST /disponibilidad          |
+|  wkfff7e |  GET /admin                    |
+|  wsr5azh |  GET /disponibilidad/mes       |
+|  xd0vrz1 |  GET /reservas                 |
++----------+--------------------------------+
